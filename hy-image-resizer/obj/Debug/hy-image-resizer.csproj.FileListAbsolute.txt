@@ -1,0 +1,6 @@
+C:\Users\hy4yl\Documents\GitHub\hy-image-resizer\hy-image-resizer\obj\Debug\hy-image-resizer.csproj.AssemblyReference.cache
+C:\Users\hy4yl\Documents\GitHub\hy-image-resizer\hy-image-resizer\obj\Debug\hy-image-resizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\hy4yl\Documents\GitHub\hy-image-resizer\hy-image-resizer\obj\Debug\hy_image_resizer.frmMain.resources
+C:\Users\hy4yl\Documents\GitHub\hy-image-resizer\hy-image-resizer\obj\Debug\hy_image_resizer.Properties.Resources.resources
+C:\Users\hy4yl\Documents\GitHub\hy-image-resizer\hy-image-resizer\obj\Debug\hy-image-resizer.csproj.GenerateResource.cache
+C:\Users\hy4yl\Documents\GitHub\hy-image-resizer\hy-image-resizer\obj\Debug\hy-image-resizer.csproj.CoreCompileInputs.cache
